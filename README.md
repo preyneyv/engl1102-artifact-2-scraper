@@ -4,6 +4,7 @@ files for easier analysis.
 
 To run the script yourself,
 1. Run `pip install -r requirements.txt` to get the dependencies.
-2. `python main.py`.
+2. Duplicate `.env.example` and save it as `.env`. Populate it with your credentials.
+3. Run `python main.py`
 
 Written for ENGL1102 at GATech.
